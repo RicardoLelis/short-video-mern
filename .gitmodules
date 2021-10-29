@@ -1,0 +1,6 @@
+[submodule "short-video-backend"]
+	path = short-video-backend
+	url = https://github.com/RicardoLelis/short-video-mern.git
+[submodule "short-video-frontend"]
+	path = short-video-frontend
+	url = https://github.com/RicardoLelis/short-video-mern.git
